@@ -1,4 +1,4 @@
-# Ethereum-Transaction-App\
+# Ethereum-Transaction-App
 Ethereum Transaction App inspired from Hackernoon blog\
 https://hackernoon.com/build-your-own-ethereum-transaction-app-with-react-and-solidity-part-1 \
 https://hackernoon.com/how-to-build-an-ethereum-transaction-app-with-react-and-solidity-part-2 \
